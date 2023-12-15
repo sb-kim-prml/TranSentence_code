@@ -1,0 +1,7 @@
+input_channels: 1
+input_feat_per_channel: 64
+input_split: true
+#vocoder:
+#  checkpoint: ./ckpts/UnitVocoder/LJ_g_00500000
+#  config: ./ckpts/UnitVocoder/LJ.json
+#  type: code_hifigan
